@@ -2,13 +2,19 @@
  "formato": 1,
  "canais": {
   "beta": {
-   "versao": "2026.11.8",
-   "publicada_em": "2026-11-23T16:04:54",
-   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.8/Match2Date-2026.11.8.exe",
-   "sha256": "af5f5e99abc5efdb3f88f46d37811c28c4d2d642ce1a2da03db653994ffcac73",
-   "tamanho": 108163209,
-   "notas": "### Melhorias\n- A aba Gastos e o \"Gasto da semana\" saíram do painel, que ficou mais simples.\n\n### Correções\n- O aviso de localização do Tinder às vezes não fechava, ou voltava logo depois do clique, e as respostas por lá ficavam paradas.\n",
-   "versao_minima": null
+   "versao": "2026.11.9",
+   "publicada_em": "2026-11-23T16:43:15",
+   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.9/Match2Date-2026.11.9.exe",
+   "sha256": "224117bab0ac550e2900bab628ad2202fc0c626f492c8b1a9f6688fefbabaf94",
+   "tamanho": 108208960,
+   "notas": "### Novidades\n- Ao abrir o programa, uma janela avisa quando há versão nova e pergunta se você quer atualizar.\n- As próximas atualizações baixam só o que mudou, em vez do programa inteiro: ficam bem mais rápidas.\n- Os avisos, a agenda e as perguntas do bot agora chegam na sua conversa \"Você\" do WhatsApp, sem precisar criar grupo. Quem preferir pode continuar usando um grupo, nos Ajustes.\n\n### Melhorias\n- Quem não veio do Tinder também ganha foto na interface, tirada do WhatsApp ou do Instagram.\n- O nome sugerido para o grupo de avisos virou \"Match2Date - Mensagens\".\n",
+   "versao_minima": null,
+   "diferenca": {
+    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.9/atualizacao-2026.11.9.json",
+    "sha256": "2bee79d1264df40f505b76eda3fb12447b7188d2c9a9409e12276af632f814b8",
+    "grupos_novos": 121,
+    "tamanho_novos": 147954376
+   }
   }
  }
 }
