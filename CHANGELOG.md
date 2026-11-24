@@ -1,5 +1,20 @@
 # Novidades do Match2Date
 
+## 2026.11.14 · 24/11/2026
+
+### Novidades
+- Botão "Ver conversa" nos dates que já passaram e nos cancelados.
+- A agenda agora mostra também os dates cancelados, junto com os que já passaram.
+
+### Melhorias
+- O date só entra na agenda depois que ela confirma, e não mais no momento em que a proposta é feita.
+- O programa avisa o servidor, a cada 10 minutos, que o bot está ligado e quantas mensagens e dates já teve, só em números e sem nenhum texto de conversa. A política de privacidade foi atualizada e pede o seu aceite de novo.
+
+### Correções
+- O Instagram não pausa mais por engano quando a conversa ainda está vazia.
+- Quando ela passa só o usuário do Instagram, sem a arroba, o bot entende e passa para lá.
+- A janela "Versão nova" não fica mais coberta pelo fundo escuro.
+
 ## 2026.11.13 · 24/11/2026
 
 ### Novidades
