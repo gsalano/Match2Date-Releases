@@ -1,5 +1,20 @@
 # Novidades do Match2Date
 
+## 2026.11.10 · 24/11/2026
+
+### Novidades
+- Acompanhe o bot pelo celular: veja as conversas e escolha as respostas de qualquer lugar, com o computador ligado (Ajustes › Conta › Acesso pelo celular). O celular também avisa quando tem resposta esperando você.
+- Cada conversa mostra em que etapa está: conhecendo, hora do convite, convite feito, até o date.
+- A agenda pode mostrar também os dates que já passaram, e dá para escolher um lugar preferido para os encontros, que o bot sugere primeiro.
+- Botão "Começar do zero" em Ajustes › IA, para conectar as IAs de novo desde o início.
+- A política de privacidade aparece na primeira abertura, para você ler e aceitar.
+
+### Correções
+- Quando ela pede o seu número, o bot aceita e pede o dela, em vez de desconversar.
+- O bot não fica mais tentando abrir a conversa de quem desfez o match no Tinder.
+- Com duas contas do Windows no mesmo computador, cada uma usa só o próprio Chrome.
+- O contador "Avisar antes do date" não fica mais com os botões por cima do número.
+
 ## 2026.11.9 · 23/11/2026
 
 ### Novidades
