@@ -2,18 +2,18 @@
  "formato": 1,
  "canais": {
   "beta": {
-   "versao": "2026.11.9",
-   "publicada_em": "2026-11-23T16:43:15",
-   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.9/Match2Date-2026.11.9.exe",
-   "sha256": "224117bab0ac550e2900bab628ad2202fc0c626f492c8b1a9f6688fefbabaf94",
-   "tamanho": 108208960,
-   "notas": "### Novidades\n- Ao abrir o programa, uma janela avisa quando há versão nova e pergunta se você quer atualizar.\n- As próximas atualizações baixam só o que mudou, em vez do programa inteiro: ficam bem mais rápidas.\n- Os avisos, a agenda e as perguntas do bot agora chegam na sua conversa \"Você\" do WhatsApp, sem precisar criar grupo. Quem preferir pode continuar usando um grupo, nos Ajustes.\n\n### Melhorias\n- Quem não veio do Tinder também ganha foto na interface, tirada do WhatsApp ou do Instagram.\n- O nome sugerido para o grupo de avisos virou \"Match2Date - Mensagens\".\n",
+   "versao": "2026.11.10",
+   "publicada_em": "2026-11-24T11:50:22",
+   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.10/Match2Date-2026.11.10.exe",
+   "sha256": "95507e6bc680cc29dd7c87415f2674b770d4a5adf2b983548bf575bc724ef584",
+   "tamanho": 112251196,
+   "notas": "### Novidades\n- Acompanhe o bot pelo celular: veja as conversas e escolha as respostas de qualquer lugar, com o computador ligado (Ajustes › Conta › Acesso pelo celular). O celular também avisa quando tem resposta esperando você.\n- Cada conversa mostra em que etapa está: conhecendo, hora do convite, convite feito, até o date.\n- A agenda pode mostrar também os dates que já passaram, e dá para escolher um lugar preferido para os encontros, que o bot sugere primeiro.\n- Botão \"Começar do zero\" em Ajustes › IA, para conectar as IAs de novo desde o início.\n- A política de privacidade aparece na primeira abertura, para você ler e aceitar.\n\n### Correções\n- Quando ela pede o seu número, o bot aceita e pede o dela, em vez de desconversar.\n- O bot não fica mais tentando abrir a conversa de quem desfez o match no Tinder.\n- Com duas contas do Windows no mesmo computador, cada uma usa só o próprio Chrome.\n- O contador \"Avisar antes do date\" não fica mais com os botões por cima do número.\n",
    "versao_minima": null,
    "diferenca": {
-    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.9/atualizacao-2026.11.9.json",
-    "sha256": "2bee79d1264df40f505b76eda3fb12447b7188d2c9a9409e12276af632f814b8",
-    "grupos_novos": 121,
-    "tamanho_novos": 147954376
+    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.10/atualizacao-2026.11.10.json",
+    "sha256": "80d8d8f0491526529f0d3b709212486e371515f32605dc17bad6b32b21c3f38f",
+    "grupos_novos": 28,
+    "tamanho_novos": 19353093
    }
   }
  }
