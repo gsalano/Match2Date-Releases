@@ -2,18 +2,18 @@
  "formato": 1,
  "canais": {
   "beta": {
-   "versao": "2026.11.10",
-   "publicada_em": "2026-11-24T11:50:22",
-   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.10/Match2Date-2026.11.10.exe",
-   "sha256": "95507e6bc680cc29dd7c87415f2674b770d4a5adf2b983548bf575bc724ef584",
-   "tamanho": 112251196,
-   "notas": "### Novidades\n- Acompanhe o bot pelo celular: veja as conversas e escolha as respostas de qualquer lugar, com o computador ligado (Ajustes › Conta › Acesso pelo celular). O celular também avisa quando tem resposta esperando você.\n- Cada conversa mostra em que etapa está: conhecendo, hora do convite, convite feito, até o date.\n- A agenda pode mostrar também os dates que já passaram, e dá para escolher um lugar preferido para os encontros, que o bot sugere primeiro.\n- Botão \"Começar do zero\" em Ajustes › IA, para conectar as IAs de novo desde o início.\n- A política de privacidade aparece na primeira abertura, para você ler e aceitar.\n\n### Correções\n- Quando ela pede o seu número, o bot aceita e pede o dela, em vez de desconversar.\n- O bot não fica mais tentando abrir a conversa de quem desfez o match no Tinder.\n- Com duas contas do Windows no mesmo computador, cada uma usa só o próprio Chrome.\n- O contador \"Avisar antes do date\" não fica mais com os botões por cima do número.\n",
+   "versao": "2026.11.11",
+   "publicada_em": "2026-11-24T12:34:26",
+   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.11/Match2Date-2026.11.11.exe",
+   "sha256": "a8ba75ddcecbb0fdb3fbb65e68bad2c01dc7ea6c6b0efd38f7032a7342992ea9",
+   "tamanho": 112499056,
+   "notas": "### Correções\n- O botão \"Entrar\" do Claude, na tela de conectar a IA, voltou a abrir o login: antes aparecia \"Algo deu errado por dentro\".\n",
    "versao_minima": null,
    "diferenca": {
-    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.10/atualizacao-2026.11.10.json",
-    "sha256": "80d8d8f0491526529f0d3b709212486e371515f32605dc17bad6b32b21c3f38f",
-    "grupos_novos": 28,
-    "tamanho_novos": 19353093
+    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.11/atualizacao-2026.11.11.json",
+    "sha256": "786230e74620d9f7ab6664474ef817fd2103dfcb78e4466cde9e745ba8b9871a",
+    "grupos_novos": 24,
+    "tamanho_novos": 15775537
    }
   }
  }
