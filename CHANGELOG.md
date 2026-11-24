@@ -1,5 +1,17 @@
 # Novidades do Match2Date
 
+## 2026.11.13 · 24/11/2026
+
+### Novidades
+- Em Ajustes › Conta, dá para escolher o canal de atualização: Estável, o de todos, ou Beta, para receber as versões novas antes.
+- O guia de configuração e o passo a passo de conectar a IA ganharam as imagens de cada tela.
+- Com uma IA mais simples (Gemini Flash 3.8, Haiku 5.5 ou abaixo), o programa usa sozinho uma versão resumida das instruções, para ela errar menos. Dá para mudar em Ajustes › IA.
+- Os Ajustes e o site passam a recomendar, no mínimo, o Gemini Flash 3.8 ou o Haiku 5.5 em esforço médio.
+
+### Correções
+- O cartão com as novidades da versão mostra o texto formatado, sem símbolos soltos.
+- Quando não dá para conferir se há versão nova, por exemplo sem internet, o programa avisa em vez de dizer que está em dia.
+
 ## 2026.11.12 · 24/11/2026
 
 ### Correções
