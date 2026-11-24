@@ -1,5 +1,10 @@
 # Novidades do Match2Date
 
+## 2026.11.11 · 24/11/2026
+
+### Correções
+- O botão "Entrar" do Claude, na tela de conectar a IA, voltou a abrir o login: antes aparecia "Algo deu errado por dentro".
+
 ## 2026.11.10 · 24/11/2026
 
 ### Novidades
