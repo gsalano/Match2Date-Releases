@@ -1,5 +1,10 @@
 # Novidades do Match2Date
 
+## 2026.11.12 · 24/11/2026
+
+### Correções
+- Em computadores com o Windows sem alguns certificados de segurança, a atualização pelo próprio programa parava no meio do download com um erro de certificado. Agora ela baixa normalmente, e o mesmo vale para ativar a licença e para as fotos dos perfis.
+
 ## 2026.11.11 · 24/11/2026
 
 ### Correções
