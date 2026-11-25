@@ -1,5 +1,16 @@
 # Novidades do Match2Date
 
+## 2026.11.16 · 25/11/2026
+
+### Novidades
+- Mulheres também podem usar o Match2Date: em Ajustes › Conta, no quadro "Quem é você", diga se você é homem ou mulher e se conversa com mulheres, homens ou os dois. O bot passa a escrever no seu gênero ("obrigada", "eu mesma") e trata a outra pessoa pelo gênero dela.
+
+### Melhorias
+- Quando a IA fica sem créditos, o quadro principal do Início avisa em destaque e diz a que horas o bot volta a responder sozinho.
+
+### Correções
+- Quando ela desmarca e propõe outro dia, o date muda na agenda assim que o bot aceita, e a confirmação passa a ser a do dia novo.
+
 ## 2026.11.15 · 25/11/2026
 
 ### Novidades
