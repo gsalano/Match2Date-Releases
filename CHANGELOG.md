@@ -1,5 +1,17 @@
 # Novidades do Match2Date
 
+## 2026.11.15 · 25/11/2026
+
+### Novidades
+- Conversa bloqueada sem querer agora tem o botão "Desbloquear": o date volta para a agenda e ela volta às suas listas.
+- Quando ela passa o WhatsApp ou o Instagram em qualquer rede, o bot salva o contato e continua a conversa por lá.
+
+### Melhorias
+- Computadores com 8 GB de memória ficam mais leves, e o bot cuida melhor da memória quando ela está acabando.
+- Um encontro só entra na agenda depois que ela confirma o horário.
+- A lista de conversas carrega mais rápido.
+- Atualizações e o conteúdo do programa ficaram mais protegidos.
+
 ## 2026.11.14 · 24/11/2026
 
 ### Novidades
