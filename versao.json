@@ -17,19 +17,21 @@
    }
   },
   "estavel": {
-   "versao": "2026.11.14",
-   "publicada_em": "2026-11-24T18:27:39",
-   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.14/Match2Date-2026.11.14.exe",
-   "sha256": "c30eb2a908d1f605ddbbc6006f6aed8f773914f9c95341d67284ea09cfc2ec55",
-   "tamanho": 112673285,
-   "notas": "### Novidades\n- Botão \"Ver conversa\" nos dates que já passaram e nos cancelados.\n- A agenda agora mostra também os dates cancelados, junto com os que já passaram.\n\n### Melhorias\n- O date só entra na agenda depois que ela confirma, e não mais no momento em que a proposta é feita.\n- O programa avisa o servidor, a cada 10 minutos, que o bot está ligado e quantas mensagens e dates já teve, só em números e sem nenhum texto de conversa. A política de privacidade foi atualizada e pede o seu aceite de novo.\n\n### Correções\n- O Instagram não pausa mais por engano quando a conversa ainda está vazia.\n- Quando ela passa só o usuário do Instagram, sem a arroba, o bot entende e passa para lá.\n- A janela \"Versão nova\" não fica mais coberta pelo fundo escuro.\n",
-   "versao_minima": "2026.11.14",
+   "versao": "2026.11.15",
+   "publicada_em": "2026-11-25T09:55:13",
+   "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.15/Match2Date-2026.11.15.exe",
+   "sha256": "e4800637a6d646b20cca6d790bb8c7bf608bf22876c4c453147f84714c26dd8b",
+   "tamanho": 112696532,
+   "notas": "### Novidades\n- Conversa bloqueada sem querer agora tem o botão \"Desbloquear\": o date volta para a agenda e ela volta às suas listas.\n- Quando ela passa o WhatsApp ou o Instagram em qualquer rede, o bot salva o contato e continua a conversa por lá.\n\n### Melhorias\n- Computadores com 8 GB de memória ficam mais leves, e o bot cuida melhor da memória quando ela está acabando.\n- Um encontro só entra na agenda depois que ela confirma o horário.\n- A lista de conversas carrega mais rápido.\n- Atualizações e o conteúdo do programa ficaram mais protegidos.\n",
+   "versao_minima": "2026.11.15",
    "diferenca": {
-    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.14/atualizacao-2026.11.14.json",
-    "sha256": "3b2e48465e7bd90a6c6a1c010203b38613e1e9385419882b97f4c8988f85f83b",
-    "grupos_novos": 25,
-    "tamanho_novos": 17228954
+    "url": "https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.15/atualizacao-2026.11.15.json",
+    "sha256": "b59f1a88add3f394dc7a5f52f306effff360f1e0c908e3e8f435392af05d1951",
+    "grupos_novos": 23,
+    "tamanho_novos": 14367767
    }
   }
- }
+ },
+ "canais_assinados": "{\"beta\":{\"diferenca\":{\"grupos_novos\":24,\"sha256\":\"c4f754c485fb9f5da2207ab4bc4bdca237912355d20e0e6241a209b91557bdab\",\"tamanho_novos\":15886474,\"url\":\"https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.13/atualizacao-2026.11.13.json\"},\"notas\":\"### Novidades\\n- Em Ajustes › Conta, dá para escolher o canal de atualização: Estável, o de todos, ou Beta, para receber as versões novas antes.\\n- O guia de configuração e o passo a passo de conectar a IA ganharam as imagens de cada tela.\\n- Com uma IA mais simples (Gemini Flash 3.8, Haiku 5.5 ou abaixo), o programa usa sozinho uma versão resumida das instruções, para ela errar menos. Dá para mudar em Ajustes › IA.\\n- Os Ajustes e o site passam a recomendar, no mínimo, o Gemini Flash 3.8 ou o Haiku 5.5 em esforço médio.\\n\\n### Correções\\n- O cartão com as novidades da versão mostra o texto formatado, sem símbolos soltos.\\n- Quando não dá para conferir se há versão nova, por exemplo sem internet, o programa avisa em vez de dizer que está em dia.\\n\",\"publicada_em\":\"2026-11-24T15:34:19\",\"sha256\":\"572611eceb407536d1817ffd3681b9d70b64d48e52577a08c9177952943f3292\",\"tamanho\":112609793,\"url\":\"https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.13/Match2Date-2026.11.13.exe\",\"versao\":\"2026.11.13\",\"versao_minima\":\"2026.11.13\"},\"estavel\":{\"diferenca\":{\"grupos_novos\":23,\"sha256\":\"b59f1a88add3f394dc7a5f52f306effff360f1e0c908e3e8f435392af05d1951\",\"tamanho_novos\":14367767,\"url\":\"https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.15/atualizacao-2026.11.15.json\"},\"notas\":\"### Novidades\\n- Conversa bloqueada sem querer agora tem o botão \\\"Desbloquear\\\": o date volta para a agenda e ela volta às suas listas.\\n- Quando ela passa o WhatsApp ou o Instagram em qualquer rede, o bot salva o contato e continua a conversa por lá.\\n\\n### Melhorias\\n- Computadores com 8 GB de memória ficam mais leves, e o bot cuida melhor da memória quando ela está acabando.\\n- Um encontro só entra na agenda depois que ela confirma o horário.\\n- A lista de conversas carrega mais rápido.\\n- Atualizações e o conteúdo do programa ficaram mais protegidos.\\n\",\"publicada_em\":\"2026-11-25T09:55:13\",\"sha256\":\"e4800637a6d646b20cca6d790bb8c7bf608bf22876c4c453147f84714c26dd8b\",\"tamanho\":112696532,\"url\":\"https://github.com/gsalano/Match2Date-Releases/releases/download/v2026.11.15/Match2Date-2026.11.15.exe\",\"versao\":\"2026.11.15\",\"versao_minima\":\"2026.11.15\"}}",
+ "assinatura": "nsJzypjqEtAQa+/YaHrDk/cUHXfI+WGmdRU+7rwLsqgLTV5uQHN0V+JId6D3gUktuY/F/X7+pprxy20ChUEBBQ=="
 }
