@@ -1,5 +1,20 @@
 # Novidades do Match2Date
 
+## 2026.11.17 · 26/11/2026
+
+### Novidades
+- Os lugares preferidos para os dates agora são uma lista em ordem: o bot oferece o 1º e, se ela não quiser, o seguinte, sem insistir. Use o "+" para pôr mais lugares e arraste para mudar a ordem.
+- Ao anular um date, dá para dizer para quando remarcar, e o bot propõe esse dia a ela.
+- Dá para escolher qual modelo do Claude o bot usa, em Ajustes › IA.
+
+### Melhorias
+- Com "dates no mesmo período" ligado, os convites se espalham entre os dias em vez de irem todos para a mesma noite.
+- Em Ajustes › IA, a opção das instruções da IA diz o que cada escolha faz: Automática, Leve ou Completa.
+- O programa gasta menos memória ao longo do dia e não deixa mais processos do Chrome para trás.
+
+### Correções
+- O alerta de anular ou deletar um date não fica mais coberto pelo fundo escuro, e os botões dele voltaram a funcionar.
+
 ## 2026.11.16 · 25/11/2026
 
 ### Novidades
