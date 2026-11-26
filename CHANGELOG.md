@@ -1,5 +1,18 @@
 # Novidades do Match2Date
 
+## 2026.11.18 · 26/11/2026
+
+### Novidades
+- Novo botão "i" na Agenda e nas Conversas: abre uma janela com tudo o que se sabe sobre ela (foto, contato, o date, o que ela contou e o perfil).
+- Se ela perguntar se você fala outra língua, o bot passa a conversar com ela nessa língua.
+- No Tinder, "Puxar papo" ganhou a opção "Todos (até terminar)": o bot abre conversa com todos os matches e depois segue só respondendo.
+
+### Melhorias
+- Com "Dates no mesmo período" ligado, o bot também sugere um dia ainda sem nenhum date, inclusive a noite de hoje.
+
+### Correções
+- Ao responder a lista toda do Tinder, quem estava lá embaixo na aba Mensagens às vezes ficava sem resposta.
+
 ## 2026.11.17 · 26/11/2026
 
 ### Novidades
