@@ -1,5 +1,20 @@
 # Novidades do Match2Date
 
+## 2026.11.20 · 27/11/2026
+
+### Novidades
+
+- Para quem está começando, o Início mostra os "Primeiros passos": o que falta para o bot começar, com um botão para cada coisa, inclusive para entrar no Tinder, no WhatsApp e no Instagram.
+- No WhatsApp e no Instagram, "Escolher das minhas conversas" mostra as suas conversas mais recentes: é só tocar em quem o bot vai atender, sem digitar nomes.
+- A conversa aberta mostra por que o bot ainda não respondeu, por exemplo, o horário de sono ou a espera até ela responder.
+
+### Melhorias
+
+- Os Ajustes ficaram mais simples: mostram só o essencial, e o resto aparece em "Mostrar ajustes avançados".
+- O ritmo das respostas agora é uma escolha só: Rápido, Normal ou Tranquilo.
+- No Tinder, escolha responder as conversas mais recentes ou todas, sem contar posições.
+- O pedido para anotar o código de recuperação aparece depois da primeira semana de uso.
+
 ## 2026.11.19 · 27/11/2026
 
 ### Novidades
