@@ -1,5 +1,20 @@
 # Novidades do Match2Date
 
+## 2026.11.19 · 27/11/2026
+
+### Novidades
+
+- Agora dá para bloquear dias na agenda: no calendário "Dias sem date", toque num dia e o bot não convida nem aceita encontro nele, mesmo que ela proponha.
+
+### Melhorias
+
+- O bot sabe exatamente quais dias ainda estão livres antes do prazo do primeiro encontro e, com a semana cheia, deixa o convite para a semana seguinte.
+- Com "Marcar dates no mesmo horário" ligado, os convites ficam nos próximos 7 dias e, se ela não puder, o bot tenta outro dia antes de perguntar o dia dela.
+
+### Correções
+
+- A frase do "Acontecendo agora" não sai mais cortada quando ainda não há nada para mostrar.
+
 ## 2026.11.18 · 26/11/2026
 
 ### Novidades
